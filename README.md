@@ -1,3 +1,3 @@
 IComplaint is a college complaint management application 
 which I developed as my final year project. 
-The Android application was developed using Flutter and dart. 
+The Android application was developed using Flutter and uses firebase Firestore database. 
